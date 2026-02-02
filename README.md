@@ -12,6 +12,7 @@ and workforce composition using SQL and Power BI.
 ## 🛠 Tools Used
 - MySQL
 - MySQL Workbench
+- Python(Pandas,Numpy)
 - Power BI
 - GitHub
 
